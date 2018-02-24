@@ -1,0 +1,16 @@
+{
+  "name": "classexc",
+  "version": "1.0.0",
+  "description": "Javascriptexercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Abraham",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.18.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}
